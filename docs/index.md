@@ -4,5 +4,6 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 
 ## Membres du groupe
 
-- `initiateur` : Mourtaza Madina
-- 'contributeur-1' : Chtini Nesrine
+- `initiateur` : Madina Mourtaza
+- `contributeur-1` : Nesrine Chtini
+- `contributeur-2` : Sarah Lansari
