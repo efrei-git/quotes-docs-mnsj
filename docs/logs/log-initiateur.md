@@ -1,4 +1,5 @@
-* a96338b (origin/gh-pages, gh-pages) Deployed 6e9dd08 with MkDocs version: 1.6.1
+```bash
+*a96338b (origin/gh-pages, gh-pages) Deployed 6e9dd08 with MkDocs version: 1.6.1
 * 37b4831 Deployed 6e9dd08 with MkDocs version: 1.6.1
 * 3533d79 Deployed 6e9dd08 with MkDocs version: 1.6.1
 *   45115d0 (origin/main, origin/HEAD, main) Merge pull request #3 from jugurta12/main
@@ -17,3 +18,4 @@
 |/  
 * 6e9dd08 (HEAD) Initial Commit
 * d487d8d add deadline
+```
